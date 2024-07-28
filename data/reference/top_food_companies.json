@@ -1,0 +1,530 @@
+[
+    {
+        "rank":1,
+        "company":"PepsiCo Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":2,
+        "company":"Tyson Foods Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":3,
+        "company":"Nestle",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":4,
+        "company":"JBS USA",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":5,
+        "company":"Kraft Heinz Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":6,
+        "company":"General Mills Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":7,
+        "company":"Anheuser-Busch InBev",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":8,
+        "company":"Smithfield Foods Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":9,
+        "company":"Coca-Cola Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":10,
+        "company":"Cargill Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":11,
+        "company":"Mars Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":12,
+        "company":"Hormel Foods Corp.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":13,
+        "company":"Conagra Brands Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":14,
+        "company":"Pilgrim\u2019s Pride",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":15,
+        "company":"Bimbo Bakeries USA",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":16,
+        "company":"Mondelez International",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":17,
+        "company":"Saputo Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":18,
+        "company":"Hershey Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":19,
+        "company":"National Beef Packing Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":20,
+        "company":"Kellogg Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":21,
+        "company":"Wayne-Sanderson Farms",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":22,
+        "company":"Molson Coors Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":23,
+        "company":"Campbell Soup Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":24,
+        "company":"J.M. Smucker Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":25,
+        "company":"Keurig Dr Pepper",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":26,
+        "company":"Lactalis American Group",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":27,
+        "company":"Dairy Farmers of America",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":28,
+        "company":"Agropur Cooperative",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":29,
+        "company":"Danone North America",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":30,
+        "company":"Perdue Farms Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":31,
+        "company":"Land O'Lakes Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":32,
+        "company":"Post Holdings Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":33,
+        "company":"Flowers Foods Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":34,
+        "company":"Constellation Brands",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":35,
+        "company":"Golden State Foods",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":37,
+        "company":"Unilever U.S.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":38,
+        "company":"E&J Gallo Winery",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":39,
+        "company":"Prairie Farms Dairy Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":40,
+        "company":"Grupo Lala",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":41,
+        "company":"Hearthside Food Solutions LLC",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":43,
+        "company":"Colgate-Palmolive Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":44,
+        "company":"Ferrara USA",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":45,
+        "company":"Grassland Dairy",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":47,
+        "company":"Maple Leaf Foods",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":48,
+        "company":"TreeHouse Foods Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":49,
+        "company":"Beam Suntory Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":50,
+        "company":"Cal-Maine Foods",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":51,
+        "company":"California Dairies Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":53,
+        "company":"Rich Products Corp.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":54,
+        "company":"Premium Brands Holdings Corp.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":55,
+        "company":"Foster Farms LLC",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":57,
+        "company":"McCormick & Co. Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":58,
+        "company":"Seaboard Corp.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":59,
+        "company":"Schwan\u2019s Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":60,
+        "company":"Trident Seafoods Corp.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":62,
+        "company":"American Foods Group LLC",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":64,
+        "company":"Hilmar Cheese Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":65,
+        "company":"Lindt & Sprungli",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":66,
+        "company":"B&G Foods",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":67,
+        "company":"Boston Beer Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":68,
+        "company":"OSI Group",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":69,
+        "company":"Schreiber Foods Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":70,
+        "company":"Brown-Forman Corp.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":71,
+        "company":"Associated Milk Producers",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":73,
+        "company":"Leprino Foods Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":74,
+        "company":"Del Monte Pacific Ltd.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":75,
+        "company":"Lancaster Colony Corp.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":76,
+        "company":"Dreyer's Grand Ice Cream",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":77,
+        "company":"Triumph Foods",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":78,
+        "company":"Seneca Foods Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":79,
+        "company":"McKee Foods Corp.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":80,
+        "company":"Sargento Foods Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":81,
+        "company":"Bonduelle N.A.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":82,
+        "company":"Utz Brands",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":83,
+        "company":"Reser's Fine Foods",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":84,
+        "company":"J&J Snack Foods",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":85,
+        "company":"Hostess Brands Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":86,
+        "company":"Monogram Foods",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":87,
+        "company":"Case Foods Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":88,
+        "company":"American Crystal Sugar Co.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":91,
+        "company":"National Beverage Corp.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":92,
+        "company":"Hain Celestial Group",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":93,
+        "company":"Foremost Farms USA",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":94,
+        "company":"Darigold",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":95,
+        "company":"Agri-Mark",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":97,
+        "company":"SunOpta Inc.",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":98,
+        "company":"Glanbia USA",
+        "product_page_url":"",
+        "product_count":""
+    },
+    {
+        "rank":100,
+        "company":"Chobani Inc.",
+        "product_page_url":"",
+        "product_count":""
+    }
+]
