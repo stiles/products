@@ -1,5 +1,5 @@
 # Products
-Scrapers to collect an inventory of products sold by food and drink brands.
+Scrapers that grab product information about popular food and drink brands.
 
 ## Brands collected
 
