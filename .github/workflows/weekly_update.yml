@@ -25,7 +25,7 @@ jobs:
         pip install bs4
         pip install jupyterlab
         pip install jupyter-black
-        pip istall boto3
+        pip install boto3
         pip install tqdm
 
     - name: Run Product Scraper
