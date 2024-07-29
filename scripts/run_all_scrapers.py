@@ -1,5 +1,6 @@
 import subprocess
 import os
+import re
 import pandas as pd
 import boto3
 from datetime import datetime
