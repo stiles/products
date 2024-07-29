@@ -36,6 +36,8 @@ fiona = "*"
 gspread = "*"
 numpy = "*"
 tabulate = "*"
+pip = "*"
+shopifyapi = "*"
 
 [requires]
 python_version = "3.9"
