@@ -21,8 +21,12 @@ jobs:
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pipenv
-        pipenv install
+        pip install pandas
+        pip install bs4
+        pip install jupyterlab
+        pip install jupyter-black
+        pip istall boto3
+        pip install tqdm
 
     - name: Run Product Scraper
       run: python scripts/run_all_scrapers.py
