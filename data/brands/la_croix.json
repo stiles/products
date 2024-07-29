@@ -1,0 +1,227 @@
+[
+    {
+        "brand":"La Croix",
+        "name":"Mojito",
+        "description":"NEW Mojito: a hint of sweetness with a minty fresh Taste of Paradise!",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/mojito\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2023\/09\/Mojito-can.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Cherry Blossom",
+        "description":"A botanical twist of sweet and tart, the dazzling taste of blossoming Spring!",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/cherry-blossom\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2022\/02\/21_LAC_PSD_Mock-Can_Cherry-Blossom.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Beach Plum",
+        "description":"Start dreaming of summer, and excite your imagination, with the taste, taste, taste of Cool Beach Plum!",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/beach-plum\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2021\/03\/IMG-Beach-Plum-821.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Guava S\u00e3o Paulo",
+        "description":"Savor the sweet tropical delicacy and vibrant essence that satisfies your Constant Cravings !!",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/guava-sao-paulo\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2021\/03\/19_LAC_12oz-Can_Guava-Sao-Paulo.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Black Razzberry",
+        "description":"An innocently sweet twist that Makes your taste buds sing !!",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/black-razzberry\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2021\/03\/18_LAC_12oz-Can_Black-Razzberry.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"LimonCello",
+        "description":"Squeeze the Day!\nA hint of lemon.  A smooth finish.\nSavor the taste of the Amalfi Coast.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/limoncello\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2020\/01\/LIMONCELLO.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Past\u00e8que",
+        "description":"Pass the Pasteque!\nThis refreshing watermelon treat captures the lusciousness of sweet watermelon. ",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/pasteque\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2020\/01\/PASTEQUE.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Hi-Biscus!",
+        "description":"If the color pink had a flavor - this would be it!\nSlightly botanical, completely refreshing! ",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/hi-biscus\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2021\/03\/IMG-Hi-Biscus-821.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"KeyLime",
+        "description":"Key Lime Surprise!\nStarting with creamy notes of toasted meringue, this fan-favorite combines the tart, crisp KeyLime essence with a rich graham cracker finish. ",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/keylime\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2021\/03\/IMG-Keylime-821.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Tangerine",
+        "description":"Flavor explosion!\nSlightly stronger than our Orange flavor, Tanger-EEN has a flavor explosion of a freshly peeled fruit. ",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/tangerine\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2021\/03\/IMG-Tangerine-821.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Apricot",
+        "description":"Always Apricot!\nSweet + Tart, fresh and natural.\n100% refreshing, 100% innocent. Always.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/apricot\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/APRICOT-3.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Mango",
+        "description":"Take me away!\nFresh, juicy and succulent - just like the fruit! ",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/mango\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/MANGO.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Passionfruit",
+        "description":"A twist on the tropics:  A trace of this particular fruit is added for a refreshing twist on tropics.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/passionfruit\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/PASSIONFRUIT.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Coconut",
+        "description":"Enjoy the taste of summer year-round!\nSlightly sweet and a bit creamy flavor of coconut. ",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/coconut\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/COCONUT.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Pamplemousse",
+        "description":"Pamplemousse, Please!\nFrench for \u201cgrapefruit\u201d, fresh and ripe. A pantry staple. ",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/pamplemousse\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/PAMPLEMOUSSE-1.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Peach-Pear",
+        "description":"A Peach-Pear Combo!\nA delightful combination, with hints of each.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/peach-pear\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/PEACH-PEAR.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Berry",
+        "description":"Berry Delicious!\nA subtle fruity berry blend.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/berry\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/BERRY-1.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Razz-Cranberry",
+        "description":"Mix It Up!\nA flavorful combination of sweet and tart.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/razz-cranberry\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/RAZZ-CRANBERRY.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Orange",
+        "description":"The Sunny Side of Life!\nAroma of freshly squeezed with a natural lively citrus delivery.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/orange\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/ORANGE.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Lemon",
+        "description":"A Lively Lemon delight!\nBright flavor, slightly tart and sweet.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/lemon\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/LEMON-2.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Lime",
+        "description":"Classic Crowd Pleaser!\nA refreshing citrus zest - a fresh lime, just picked from the tree.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/lime\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/LIME-1.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Pure",
+        "description":"Pure-ly Perfect!\nThe classic unflavored sparkling water is crisp, clean and thirst-quenching. ",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/pure\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/PURE-2-2022.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Cerise Lim\u00f3n",
+        "description":"Cherry Lime.\nBolder flavors, C\u00farate is pronounced \u201ccoo-rah-tay\u201d, which means to cure yourself.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/cerise-limon\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/CERISE-LIMON-1.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"Pi\u00f1a Fraise",
+        "description":"Pineapple Strawberry.\nCombines the tartness of freshly squeezed pineapple with the sweetness of fresh-picked strawberries.",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/pina-fraise\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/PINA-FRAISE.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    },
+    {
+        "brand":"La Croix",
+        "name":"LaCola",
+        "description":"NiCola.\nThe first of its kind, a revolutionary experience\u2026 Natural cola essenced sparkling water completely Innocent!",
+        "url":"https:\/\/www.lacroixwater.com\/flavors\/lacola\/",
+        "image":"https:\/\/www.lacroixwater.com\/wp-content\/uploads\/2019\/01\/LaCOLA-1.png",
+        "date_fetch":"2024-07-28",
+        "parent":"National Beverage Corporation"
+    }
+]
