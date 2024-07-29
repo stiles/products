@@ -35,7 +35,7 @@ def update_readme():
         "# Products",
         "",
         "## About",
-        "The repo contains scrapers that fetch product information from popular brands. It's a non-commercial sandbox to practice web scraping.",
+        "The repo contains a set of automated scrapers that routinely fetch product information from the websites of popular brands. It's a non-commercial sandbox to practice automated web scraping.",
         "",
         "## Process",
         "The data are collected from each brand's website with Python and Jupyter Lab notebooks stored in the `notebooks/brand_scrapers/` directory and on S3 (see links below). The scrapers can be run manually with the `scripts/run_all_scrapers.py` script. They also run automatically each Sunday night using Github Actions and `.github/workflows/weekly_update.yml`. In addition, the workflow run also includes stores a dated file in an archive on S3 for later comparison. Both processes rebuild this readme file with the latest brand names, data links and associated figures.",
